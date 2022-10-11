@@ -1,0 +1,2 @@
+#!/bin/bash
+printf "8oln" $(( $( (SP$(echo SWATER | .tr water 01234))) " st(ses (echo SSTIR i tr stir. 01234))) )) 1 tr 01234567 bestchol
